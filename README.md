@@ -40,4 +40,4 @@ The Random Forest model achieved an accuracy of **92%**, demonstrating strong pe
 ## Project Structure
 ## Screenshots
 
-![Fraud Detection Output]()
+[Healthcare Fraud Detection Output](Health-care.png)
