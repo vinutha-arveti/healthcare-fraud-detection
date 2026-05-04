@@ -6,7 +6,7 @@ This project predicts potentially fraudulent healthcare providers using Medicare
 
 - **Goal:** Predict whether a medical provider is potentially fraudulent based on the claims they file.  
 - **Problem type:** Binary classification at provider level (`fraud` vs `non‑fraud`).  
-- **Tech stack:** Python, pandas, NumPy, scikit‑learn, Jupyter Notebook.  
+- **Tech stack:** Python, pandas, NumPy, scikit‑learn, Jupyter Notebook. 
 - **Core tasks:** Data understanding, provider‑level feature engineering, model training, evaluation, and model interpretation using feature importance.  
 
 This project is inspired by the Kaggle “Healthcare Provider Fraud Detection Analysis” dataset and follows a practical workflow used in fraud analytics.
