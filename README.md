@@ -23,7 +23,7 @@ The dataset (Kaggle: Healthcare Provider Fraud Detection Analysis) contains 8 CS
 
 - **Train_Inpatientdata** (`Train_Inpatientdata-...csv`):  
   - Inpatient claim records for admitted patients.  
-  - Key fields: `Provider`, `BeneID`, `ClaimID`, `ClaimStartDt`, `ClaimEndDt`, `InscClaimAmtReimbursed`, `AdmissionDt`, `DischargeDt`, diagnosis codes, procedure codes, physician identifiers.  
+  - Key fields: `Provider`, `BeneID`, `ClaimID`, `ClaimStartDt`, `ClaimEndDt`, `InscClaimAmtReimbursed`, `AdmissionDt`, `DischargeDt`, diagnosis codes, procedure codes, physician identifiers. 
 
 - **Train_Outpatientdata** (`Train_Outpatientdata-...csv`):  
   - Outpatient claim records for non‑admitted visits.  
